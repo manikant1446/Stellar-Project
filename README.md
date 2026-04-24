@@ -185,7 +185,7 @@ Wallet address: GB2IDF4E4Z5DZMIDAWGQNN4IKQLRQIS3LGGYKKRUNVTSX6CKPERL74ZW
 
 Contract address: CDHRTDCYYTOR6TL2JLNZLS4IIW5XQAA55ACVQVX3VV5WMQGIUH4PMJSW
 
-https://stellar.expert/explorer/testnet/contract/CCIIX7QUMX3HO3QIAKQXT6G2IMT6SEYZSUDHBOO43GXHJK4XFIBAWNQL
+https://stellar.expert/explorer/testnet/contract/CDHRTDCYYTOR6TL2JLNZLS4IIW5XQAA55ACVQVX3VV5WMQGIUH4PMJSW
 
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/b6bb6fa4-0b7a-48f0-8601-98ed3c22d725" />
 
