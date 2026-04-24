@@ -174,6 +174,7 @@ soroban contract invoke \
 This project is licensed under the **MIT License**.
 
 ---
+Wallet address: GB2IDF4E4Z5DZMIDAWGQNN4IKQLRQIS3LGGYKKRUNVTSX6CKPERL74ZW
 
 ## 🤝 Contributing
 
