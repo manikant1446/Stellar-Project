@@ -183,8 +183,9 @@ Contributions are welcome! Feel free to submit issues or pull requests to improv
 
 Wallet address: GB2IDF4E4Z5DZMIDAWGQNN4IKQLRQIS3LGGYKKRUNVTSX6CKPERL74ZW
 
-Contract address: CCIIX7QUMX3HO3QIAKQXT6G2IMT6SEYZSUDHBOO43GXHJK4XFIBAWNQL
+Contract address: CDHRTDCYYTOR6TL2JLNZLS4IIW5XQAA55ACVQVX3VV5WMQGIUH4PMJSW
 
 https://stellar.expert/explorer/testnet/contract/CCIIX7QUMX3HO3QIAKQXT6G2IMT6SEYZSUDHBOO43GXHJK4XFIBAWNQL
 
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/1040800b-3d46-4252-b8c1-9de205c37173" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/b6bb6fa4-0b7a-48f0-8601-98ed3c22d725" />
+
